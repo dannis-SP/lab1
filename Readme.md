@@ -4,7 +4,7 @@
 - Class: Hello World
 - Web-site: [Singapore Polytechnic](https://www.sp.edu.sg)
 
-![github logo](GitHub.png)
+![github logo](github.png)
 
 - [x] Install Git and Python
 - [x] Learn Git and GitHub
