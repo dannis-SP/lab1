@@ -8,4 +8,4 @@
 
 - [x] Install Git and Python
 - [x] Learn Git and GitHub
-- [] C++ coding
+- [ ] C++ coding
